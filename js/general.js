@@ -201,15 +201,15 @@ function loadProjects(){
     projectsList.appendChild(clearFix)
 }
 function contactEmail(){
-    var emailAddress = "chigoziemebubebeloved@gmail.com"
+    var emailAddress = "chigoziemchidiebube@gmail.com"
     copy(emailAddress,function(){customAlert("Email Address Copied")})
 }
 function contactPhone(){
-    var phoneNo = "09166102474"
+    var phoneNo = "08022588907"
     copy(phoneNo,function(){customAlert("Phone Number Copied")})
 }
 function contactUw(){
-    var profileLink = "https://www.upwork.com/freelancers/~012c4e9f7c5bc428d3"
+    var profileLink = "https://www.upwork.com/freelancers/~014be7c685baaf3c66"
     window.open(profileLink,"_blank")
 }
 function contactWa(){
